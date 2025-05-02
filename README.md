@@ -1,4 +1,4 @@
-# Intelligent-Resume-Parser-using-SpaCy-
+# Artificial Intelligent-Resume-Parser-using-SpaCy-
 
 This project is a Streamlit-based application that parses resumes in PDF format and extracts structured information such as contact details, skills, education, experience, certifications, and projects. It uses a combination of NLP (SpaCy) and OCR (Tesseract) to handle both text-based and image-based PDFs.
 
